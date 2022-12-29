@@ -13,8 +13,6 @@ Using starter code, created the back-end application of an e-commerce site using
 
 Install MySQL2 and Sequelize packages to connect an Express.js API to a MySQL database, which utilizes the dotenv package to store sensitive environmental variables such as: username, password, and database name. The "npm run seed" command transfers the data to MySQL. A table is created out of the three objects found in the models folder: Product, Category, and Tag.
 
-
-
 ## Table of Contents
 * [Demo](#demo)
 * [Installation](#installation)
@@ -72,7 +70,6 @@ node index.js
 * MySQL2
 * Insomnia
     
-
 ## Technology Links
 
 <a href="https://www.javascript.com/" target="_blank">JavaScript</a>
@@ -100,7 +97,6 @@ node index.js
 ## Questions
 
 If you have any questions about this application, please feel free to contact me directly at:  <a href="mailto: christenmlorber@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>.
-
 
 
 [Top of Page](#ORM_E-Commerce)
