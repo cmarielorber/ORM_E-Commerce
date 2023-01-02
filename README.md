@@ -24,8 +24,10 @@ Install MySQL2 and Sequelize packages to connect an Express.js API to a MySQL da
 * [Questions](#questions)
 
 ## Demo
+![Screenshot (97)](https://user-images.githubusercontent.com/109984761/210278488-9fd6cc65-08fd-4b35-a74e-4206252953e8.png)
 
-[ORM_E-Commerce Demo](LINK HERE)
+
+[ORM_E-Commerce Demo](https://drive.google.com/file/d/1-rQPXIxNN_w5MJc2dbP5VovDKHvmQ0Bl/view?usp=share_link)
 
 ## Installation
 From the command line, run:
@@ -57,7 +59,7 @@ npm run start
 ## Usage 
 Run the following command to begin the app:
 ```
-node index.js
+nodemon server.js
 ```
 
 ## Technologies Used
