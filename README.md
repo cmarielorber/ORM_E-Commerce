@@ -31,23 +31,23 @@ Install MySQL2 and Sequelize packages to connect an Express.js API to a MySQL da
 From the command line, run:
 
 ```
-npm init
+npm i
 ```
 
 ```
-npm install mysql2
+npm i mysql2
 ```
 
 ```
-npm install sequelize
+npm i sequelize
 ```
 
 ```
-npm install express
+npm i express
 ```
 
 ```
-npm install dotenv
+npm i dotenv
 ```
 
 ```
